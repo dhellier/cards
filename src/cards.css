@@ -1,0 +1,17 @@
+/******************** Portfolio list ***********************/
+#card-list {
+	width:100%;
+	margin-top:30px;
+	padding:55px; 
+	display:table;
+	border-radius: 8px;
+	-webkit-border-radius: 8px;	
+	-moz-border-radius: 8px;	
+	-o-border-radius: 8px;	
+	-ms-border-radius: 8px;	
+	background: rgba(255,255,255,0.5);
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
